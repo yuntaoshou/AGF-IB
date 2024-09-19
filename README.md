@@ -5,7 +5,7 @@
 [AKGR-url]: https://github.com/yuntaoshou/AGF-IB
 
 # Adversarial alignment and graph fusion via information bottleneck for multimodal emotion recognition in conversations
-By Yuntao Shou, Tao Meng, Wei Ai, Sihan Yang, Keqin Li. [[paper link]](https://www.sciencedirect.com/science/article/pii/S1566253524003683)
+By Shou, Yuntao and Meng, Tao and Ai, Wei and Zhang, Fuchen and Yin, Nan and Li, Keqin. [[paper link]](https://www.sciencedirect.com/science/article/pii/S1566253524003683)
 
 [![GitHub stars][stars-img]][stars-url]
 [![GitHub forks][fork-img]][fork-url]
